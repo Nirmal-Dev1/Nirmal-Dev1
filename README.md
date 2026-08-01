@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=220&section=header&text=Nirmal%20Dev&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%2B%20Embedded%20Systems%20Developer&descAlignY=55&descSize=18&descColor=79c0ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:D4AF37,100:000000&height=220&section=header&text=Nirmal%20D&fontSize=60&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%2B%20Embedded%20Systems%20Developer&descAlignY=55&descSize=18&descColor=F0DFA0" width="100%"/>
 
 <a href="https://github.com/Nirmal-Dev1">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=Electronics+%26+Communication+Engineer;CS+Minor+%40+KTU;Building+Solarian+%E2%80%94+Full-Stack+Web+App;ESP32+%2B+Web+Serial+Tinkerer;Ethical+Hacking+%26+OSINT+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=650&height=50&lines=Electronics+%26+Communication+Engineering+Student;CS+Minor+%40+KTU;Building+Solarian+%E2%80%94+Full-Stack+Web+App;ESP32+%2B+Web+Serial+Tinkerer;Ethical+Hacking+%26+OSINT+Learner" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/status-online-1F6FEB?style=for-the-badge&logo=probot&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/location-Kerala%2C%20India-1F6FEB?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/currently-Studying%20ECE-1F6FEB?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/status-online-D4AF37?style=for-the-badge&logo=probot&logoColor=black&labelColor=000000"/>
+<img src="https://img.shields.io/badge/location-Kerala%2C%20India-D4AF37?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=000000"/>
+<img src="https://img.shields.io/badge/currently-Studying%20ECE-D4AF37?style=for-the-badge&logo=readthedocs&logoColor=black&labelColor=000000"/>
 
 </div>
 
@@ -18,19 +18,9 @@
 
 ### ⚡ About Me
 
-```yaml
-class:      ECE Student (Minor: CS)
-university: APJ Abdul Kalam Technological University (KTU), Kerala
-lab_id:     NSSCE
-focus:      [Full-Stack Development, Embedded Systems, Ethical Hacking]
-status:     Building, learning, shipping
-```
-
-- 🎮 Building **Solarian** — a personal productivity/habit-tracking web app (React + Firebase) with a gamified stat/quest system
-- 🌐 Running **Oblivion Domain** — a multi-site web presence on Cloudflare Pages, including a KTU SGPA calculator with SEO setup
-- 🔌 Designing a **browser-based Arduino IDE** for ESP32 — compile and flash directly from the browser via Web Serial
-- 🛡️ Learning **ethical hacking & OSINT** — TryHackMe, DVWA, PhoneInfoga, in a Termux/proot-Ubuntu environment
-- 🎨 Focused on clean, distinctive UI — glassmorphism and dark-theme design over generic templates
+<div align="center">
+<img src="https://raw.githubusercontent.com/Nirmal-Dev1/Nirmal-Dev1/main/assets/about-me.svg" alt="about me" width="100%"/>
+</div>
 
 ---
 
@@ -44,14 +34,14 @@ status:     Building, learning, shipping
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=58A6FF)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=58A6FF)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58A6FF)
-![Arduino](https://img.shields.io/badge/Arduino%20%2F%20ESP32-0d1117?style=for-the-badge&logo=arduino&logoColor=58A6FF)
-![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=58A6FF)
-![Cloudflare](https://img.shields.io/badge/Cloudflare%20Pages-0d1117?style=for-the-badge&logo=cloudflare&logoColor=58A6FF)
-![Linux](https://img.shields.io/badge/Linux%20%2F%20Termux-0d1117?style=for-the-badge&logo=linux&logoColor=58A6FF)
-![Git](https://img.shields.io/badge/Git%20%2F%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFD700)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFD700)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD700)
+![Arduino](https://img.shields.io/badge/Arduino%20%2F%20ESP32-000000?style=for-the-badge&logo=arduino&logoColor=FFD700)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFD700)
+![Cloudflare](https://img.shields.io/badge/Cloudflare%20Pages-000000?style=for-the-badge&logo=cloudflare&logoColor=FFD700)
+![Linux](https://img.shields.io/badge/Linux%20%2F%20Termux-000000?style=for-the-badge&logo=linux&logoColor=FFD700)
+![Git](https://img.shields.io/badge/Git%20%2F%20GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700)
 
 </div>
 
@@ -60,16 +50,16 @@ status:     Building, learning, shipping
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nirmal-Dev1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&cache_seconds=1800"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmal-Dev1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nirmal-Dev1&show_icons=true&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=F0DFA0&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmal-Dev1&layout=compact&hide_border=true&bg_color=000000&title_color=FFD700&text_color=F0DFA0&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=Nirmal-Dev1&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&cache_seconds=1800"/>
+<img src="https://streak-stats.demolab.com/?user=Nirmal-Dev1&hide_border=true&background=000000&stroke=D4AF37&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=F0DFA0&dates=8a6d1f&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Nirmal-Dev1&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Nirmal-Dev1&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 </div>
 
 ---
@@ -88,16 +78,16 @@ status:     Building, learning, shipping
 
 <div align="center">
 
-<a href="https://github.com/Nirmal-Dev1"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/></a>
+<a href="https://github.com/Nirmal-Dev1"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=FFD700"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/></a>
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nirmal-Dev1&color=1F6FEB&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Nirmal-Dev1&color=D4AF37&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:D4AF37,100:000000&height=120&section=footer" width="100%"/>
