@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:D4AF37,100:000000&height=220&section=header&text=Nirmal%20D&fontSize=60&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%2B%20Embedded%20Systems%20Developer&descAlignY=55&descSize=18&descColor=F0DFA0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:D4AF37,100:000000&height=220&section=header&text=Nirmal%20D&fontSize=60&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=2nd%20Year%20Electronics%20%26%20Communication%20Engineering&descAlignY=55&descSize=18&descColor=F0DFA0" width="100%"/>
 
 <a href="https://github.com/Nirmal-Dev1">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=780&height=50&lines=Electronics+%26+Communication+Engineering+Student;Passionate+about+Embedded+Systems+%26+AI;Learning+VLSI+Systems+%26+Machine+Learning;Building+Full-Stack+Web+Applications;Open+Source+Contributor" alt="Typing SVG" />
@@ -94,19 +94,3 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:D4AF37,100:000000&height=120&section=footer" width="100%"/>
 
-<!--
-SETUP NOTES (delete this comment block once done, GitHub won't render it anyway)
-
-1. assets/about-me.svg must be uploaded to an "assets" folder in this repo
-   for the About Me box to show. All Connect-row badges (GitHub, Portfolio,
-   LinkedIn) are now plain shields.io badges — no file upload needed for those.
-
-2. If the Stats / Top Languages / Trophy cards show broken image icons:
-   this is the shared public vercel.app instance getting overloaded, it happens
-   to everyone using the default links. Permanent fix — deploy your own free copy:
-     - Stats/Languages: github.com/anuraghazra/github-readme-stats -> "Deploy your own instance" button
-     - Streak: github.com/DenverCoder1/github-readme-streak-stats -> same option
-     - Trophy: github.com/ryo-ma/github-profile-trophy -> same option
-   Each gives you your own *.vercel.app domain. Swap that domain into the
-   matching image URLs in this file and they'll load reliably every time.
--->
