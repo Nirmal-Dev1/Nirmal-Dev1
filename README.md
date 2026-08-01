@@ -3,14 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:D4AF37,100:000000&height=220&section=header&text=Nirmal%20D&fontSize=60&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%2B%20Embedded%20Systems%20Developer&descAlignY=55&descSize=18&descColor=F0DFA0" width="100%"/>
 
 <a href="https://github.com/Nirmal-Dev1">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=650&height=50&lines=Electronics+%26+Communication+Engineering+Student;CS+Minor+%40+KTU;Building+Solarian+%E2%80%94+Full-Stack+Web+App;ESP32+%2B+Web+Serial+Tinkerer;Ethical+Hacking+%26+OSINT+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=650&height=50&lines=Electronics+%26+Communication+Engineering+Student;Passionate+about+Embedded+Systems+%26+AI;Learning+VLSI+Systems+%26+Machine+Learning;Building+Full-Stack+Web+Applications;Open+Source+Contributor" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/status-online-D4AF37?style=for-the-badge&logo=probot&logoColor=black&labelColor=000000"/>
-<img src="https://img.shields.io/badge/location-Kerala%2C%20India-D4AF37?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=000000"/>
-<img src="https://img.shields.io/badge/currently-Studying%20ECE-D4AF37?style=for-the-badge&logo=readthedocs&logoColor=black&labelColor=000000"/>
+<img src="https://raw.githubusercontent.com/Nirmal-Dev1/Nirmal-Dev1/main/assets/top-badges.svg" alt="badges"/>
 
 </div>
 
@@ -48,6 +46,8 @@
 ---
 
 ### 📊 GitHub Stats
+
+> If any card below shows a broken image icon, it's the shared free hosting getting rate-limited, not your README — see the self-deploy fix in the setup notes at the bottom.
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nirmal-Dev1&show_icons=true&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=F0DFA0&cache_seconds=1800"/>
@@ -91,3 +91,19 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:D4AF37,100:000000&height=120&section=footer" width="100%"/>
+
+<!--
+SETUP NOTES (delete this comment block once done, GitHub won't render it anyway)
+
+1. assets/about-me.svg and assets/top-badges.svg must be uploaded to an
+   "assets" folder in this repo for the About Me box and top badges to show.
+
+2. If the Stats / Top Languages / Trophy cards show broken image icons:
+   this is the shared public vercel.app instance getting overloaded, it happens
+   to everyone using the default links. Permanent fix — deploy your own free copy:
+     - Stats/Languages: github.com/anuraghazra/github-readme-stats -> "Deploy your own instance" button
+     - Streak: github.com/DenverCoder1/github-readme-streak-stats -> same option
+     - Trophy: github.com/ryo-ma/github-profile-trophy -> same option
+   Each gives you your own *.vercel.app domain. Swap that domain into the
+   matching image URLs in this file and they'll load reliably every time.
+-->
