@@ -49,7 +49,6 @@
 
 ### 📊 GitHub Stats
 
-> If any card below shows a broken image icon, it's the shared free hosting getting rate-limited, not your README — see the self-deploy fix in the setup notes at the bottom.
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nirmal-Dev1&show_icons=true&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=F0DFA0&cache_seconds=1800"/>
@@ -72,7 +71,6 @@
 <img src="https://raw.githubusercontent.com/Nirmal-Dev1/Nirmal-Dev1/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
-<sub>Runs once the snake workflow (in .github/workflows/) fires — see setup notes below.</sub>
 
 ---
 
@@ -94,19 +92,3 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:D4AF37,100:000000&height=120&section=footer" width="100%"/>
 
-<!--
-SETUP NOTES (delete this comment block once done, GitHub won't render it anyway)
-
-1. assets/about-me.svg must be uploaded to an "assets" folder in this repo
-   for the About Me box to show. All Connect-row badges (GitHub, Portfolio,
-   LinkedIn) are now plain shields.io badges — no file upload needed for those.
-
-2. If the Stats / Top Languages / Trophy cards show broken image icons:
-   this is the shared public vercel.app instance getting overloaded, it happens
-   to everyone using the default links. Permanent fix — deploy your own free copy:
-     - Stats/Languages: github.com/anuraghazra/github-readme-stats -> "Deploy your own instance" button
-     - Streak: github.com/DenverCoder1/github-readme-streak-stats -> same option
-     - Trophy: github.com/ryo-ma/github-profile-trophy -> same option
-   Each gives you your own *.vercel.app domain. Swap that domain into the
-   matching image URLs in this file and they'll load reliably every time.
--->
