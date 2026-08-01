@@ -1,0 +1,31 @@
+<svg width="720" height="546" viewBox="0 0 720 546" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#0a0a0a"/>
+<stop offset="100%" stop-color="#050505"/>
+</linearGradient>
+</defs>
+<rect x="1" y="1" width="718" height="544" rx="12" fill="url(#bg)" stroke="#D4AF37" stroke-width="1.5"/>
+<rect x="1" y="1" width="718" height="36" rx="12" fill="#111111"/>
+<rect x="1" y="25" width="718" height="12" fill="#111111"/>
+<circle cx="24" cy="19" r="6" fill="#B8860B"/>
+<circle cx="44" cy="19" r="6" fill="#8a6d1f"/>
+<circle cx="64" cy="19" r="6" fill="#5c4a15"/>
+<text x="360.0" y="24" font-family="Fira Code, Consolas, monospace" font-size="13" fill="#D4AF37" text-anchor="middle">about-me.yaml</text>
+<text x="30" y="60" font-family="Fira Code, Consolas, monospace" font-size="15"><tspan fill="#FFD700" font-weight="600">name:</tspan><tspan fill="#F0DFA0"> Nirmal D</tspan></text>
+<text x="30" y="84" font-family="Fira Code, Consolas, monospace" font-size="15"><tspan fill="#FFD700" font-weight="600">role:</tspan><tspan fill="#F0DFA0"> Electronics &amp; Communication Engineering Student</tspan></text>
+<text x="30" y="108" font-family="Fira Code, Consolas, monospace" font-size="15"><tspan fill="#FFD700" font-weight="600">university:</tspan><tspan fill="#F0DFA0"> APJ Abdul Kalam Technological University (KTU)</tspan></text>
+<text x="30" y="132" font-family="Fira Code, Consolas, monospace" font-size="15"><tspan fill="#FFD700" font-weight="600">college:</tspan><tspan fill="#F0DFA0"> NSS College of Engineering (NSSCE)</tspan></text>
+<text x="30" y="180" font-family="Fira Code, Consolas, monospace" font-size="15"><tspan fill="#FFD700" font-weight="600">interests:</tspan></text>
+<text x="30" y="204" font-family="Fira Code, Consolas, monospace" font-size="15"><tspan fill="#B8860B">  - </tspan><tspan fill="#F0DFA0">Embedded Systems</tspan></text>
+<text x="30" y="228" font-family="Fira Code, Consolas, monospace" font-size="15"><tspan fill="#B8860B">  - </tspan><tspan fill="#F0DFA0">Artificial Intelligence</tspan></text>
+<text x="30" y="252" font-family="Fira Code, Consolas, monospace" font-size="15"><tspan fill="#B8860B">  - </tspan><tspan fill="#F0DFA0">Full-Stack Development</tspan></text>
+<text x="30" y="276" font-family="Fira Code, Consolas, monospace" font-size="15"><tspan fill="#B8860B">  - </tspan><tspan fill="#F0DFA0">Open Source</tspan></text>
+<text x="30" y="324" font-family="Fira Code, Consolas, monospace" font-size="15"><tspan fill="#FFD700" font-weight="600">currently_learning:</tspan></text>
+<text x="30" y="348" font-family="Fira Code, Consolas, monospace" font-size="15"><tspan fill="#B8860B">  - </tspan><tspan fill="#F0DFA0">VLSI Systems &amp; Design</tspan></text>
+<text x="30" y="372" font-family="Fira Code, Consolas, monospace" font-size="15"><tspan fill="#B8860B">  - </tspan><tspan fill="#F0DFA0">Embedded Programming</tspan></text>
+<text x="30" y="396" font-family="Fira Code, Consolas, monospace" font-size="15"><tspan fill="#B8860B">  - </tspan><tspan fill="#F0DFA0">Machine Learning</tspan></text>
+<text x="30" y="420" font-family="Fira Code, Consolas, monospace" font-size="15"><tspan fill="#B8860B">  - </tspan><tspan fill="#F0DFA0">Modern Web Technologies</tspan></text>
+<text x="30" y="468" font-family="Fira Code, Consolas, monospace" font-size="15"><tspan fill="#FFD700" font-weight="600">goal:</tspan><tspan fill="#F0DFA0"> Build innovative hardware and software</tspan></text>
+<text x="30.0" y="492" font-family="Fira Code, Consolas, monospace" font-size="15"><tspan fill="#F0DFA0"> that solve real-world problems.</tspan></text>
+</svg>
