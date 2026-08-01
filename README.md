@@ -82,7 +82,7 @@
 
 <a href="https://github.com/Nirmal-Dev1"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=FFD700"/></a>
-<a href="https://www.linkedin.com/in/nirmal-d-6603333aa"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700&logoWidth=20"/></a>
+<a href="https://www.linkedin.com/in/nirmal-d-6603333aa"><img src="https://raw.githubusercontent.com/Nirmal-Dev1/Nirmal-Dev1/main/assets/linkedin-badge.svg" alt="LinkedIn"/></a>
 
 </div>
 
@@ -97,9 +97,9 @@
 <!--
 SETUP NOTES (delete this comment block once done, GitHub won't render it anyway)
 
-1. assets/about-me.svg must be uploaded to an "assets" folder in this repo
-   for the About Me box to show. Top badges are now plain shields.io badges,
-   no file upload needed for those.
+1. assets/about-me.svg and assets/linkedin-badge.svg must both be uploaded
+   to an "assets" folder in this repo for the About Me box and the LinkedIn
+   icon to show. Top badges are plain shields.io badges, no file needed there.
 
 2. If the Stats / Top Languages / Trophy cards show broken image icons:
    this is the shared public vercel.app instance getting overloaded, it happens
