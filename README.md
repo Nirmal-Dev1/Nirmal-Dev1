@@ -94,19 +94,3 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:D4AF37,100:000000&height=120&section=footer" width="100%"/>
 
-<!--
-SETUP NOTES (delete this comment block once done, GitHub won't render it anyway)
-
-1. assets/about-me.svg and assets/linkedin-badge.svg must both be uploaded
-   to an "assets" folder in this repo for the About Me box and the LinkedIn
-   icon to show. Top badges are plain shields.io badges, no file needed there.
-
-2. If the Stats / Top Languages / Trophy cards show broken image icons:
-   this is the shared public vercel.app instance getting overloaded, it happens
-   to everyone using the default links. Permanent fix — deploy your own free copy:
-     - Stats/Languages: github.com/anuraghazra/github-readme-stats -> "Deploy your own instance" button
-     - Streak: github.com/DenverCoder1/github-readme-streak-stats -> same option
-     - Trophy: github.com/ryo-ma/github-profile-trophy -> same option
-   Each gives you your own *.vercel.app domain. Swap that domain into the
-   matching image URLs in this file and they'll load reliably every time.
--->
