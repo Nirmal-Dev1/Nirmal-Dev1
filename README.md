@@ -82,7 +82,7 @@
 
 <a href="https://github.com/Nirmal-Dev1"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=FFD700"/></a>
-<a href="https://www.linkedin.com/in/nirmal-d-6603333aa"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/></a>
+<a href="https://www.linkedin.com/in/nirmal-d-6603333aa"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700&logoWidth=20"/></a>
 
 </div>
 
