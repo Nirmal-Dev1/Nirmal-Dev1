@@ -82,7 +82,7 @@
 
 <a href="https://github.com/Nirmal-Dev1"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=FFD700"/></a>
-<a href="https://www.linkedin.com/in/nirmal-d-6603333aa"><img src="https://raw.githubusercontent.com/Nirmal-Dev1/Nirmal-Dev1/main/assets/Linkedin-badge.svg" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/nirmal-d-6603333aa"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI0ZGRDcwMCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+"/></a>
 
 </div>
 
@@ -94,3 +94,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:D4AF37,100:000000&height=120&section=footer" width="100%"/>
 
+<!--
+SETUP NOTES (delete this comment block once done, GitHub won't render it anyway)
+
+1. assets/about-me.svg must be uploaded to an "assets" folder in this repo
+   for the About Me box to show. All Connect-row badges (GitHub, Portfolio,
+   LinkedIn) are now plain shields.io badges — no file upload needed for those.
+
+2. If the Stats / Top Languages / Trophy cards show broken image icons:
+   this is the shared public vercel.app instance getting overloaded, it happens
+   to everyone using the default links. Permanent fix — deploy your own free copy:
+     - Stats/Languages: github.com/anuraghazra/github-readme-stats -> "Deploy your own instance" button
+     - Streak: github.com/DenverCoder1/github-readme-streak-stats -> same option
+     - Trophy: github.com/ryo-ma/github-profile-trophy -> same option
+   Each gives you your own *.vercel.app domain. Swap that domain into the
+   matching image URLs in this file and they'll load reliably every time.
+-->
