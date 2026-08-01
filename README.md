@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:D4AF37,100:000000&height=220&section=header&text=Nirmal%20D&fontSize=60&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%2B%20Embedded%20Systems%20Developer&descAlignY=55&descSize=18&descColor=F0DFA0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:D4AF37,100:000000&height=220&section=header&text=Nirmal%20D&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%2B%20Embedded%20Systems%20Developer&descAlignY=55&descSize=18&descColor=000000" width="100%"/>
 
 <a href="https://github.com/Nirmal-Dev1">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=650&height=50&lines=Electronics+%26+Communication+Engineering+Student;Passionate+about+Embedded+Systems+%26+AI;Learning+VLSI+Systems+%26+Machine+Learning;Building+Full-Stack+Web+Applications;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=780&height=50&lines=Electronics+%26+Communication+Engineering+Student;Passionate+about+Embedded+Systems+%26+AI;Learning+VLSI+Systems+%26+Machine+Learning;Building+Full-Stack+Web+Applications;Open+Source+Contributor" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Nirmal-Dev1/Nirmal-Dev1/main/assets/top-badges.svg" alt="badges"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-FFD700?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/LOCATION-KERALA%2C%20INDIA-FFD700?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/CURRENTLY-STUDYING%20ECE-FFD700?style=for-the-badge&labelColor=000000"/>
 
 </div>
 
@@ -55,7 +57,7 @@
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=Nirmal-Dev1&hide_border=true&background=000000&stroke=D4AF37&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=F0DFA0&dates=8a6d1f&cache_seconds=1800"/>
+<img src="https://streak-stats.demolab.com/?user=Nirmal-Dev1&hide_border=true&background=000000&stroke=D4AF37&ring=FFD700&fire=FFD700&currStreakNum=FFD700&sideNums=FFD700&currStreakLabel=FFD700&sideLabels=F0DFA0&dates=8a6d1f&cache_seconds=1800"/>
 </div>
 
 <div align="center">
@@ -95,8 +97,9 @@
 <!--
 SETUP NOTES (delete this comment block once done, GitHub won't render it anyway)
 
-1. assets/about-me.svg and assets/top-badges.svg must be uploaded to an
-   "assets" folder in this repo for the About Me box and top badges to show.
+1. assets/about-me.svg must be uploaded to an "assets" folder in this repo
+   for the About Me box to show. Top badges are now plain shields.io badges,
+   no file upload needed for those.
 
 2. If the Stats / Top Languages / Trophy cards show broken image icons:
    this is the shared public vercel.app instance getting overloaded, it happens
