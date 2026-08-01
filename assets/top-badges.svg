@@ -1,0 +1,26 @@
+<svg width="722.2" height="40" viewBox="0 0 722.2 40" xmlns="http://www.w3.org/2000/svg">
+<clipPath id="clip_0"><rect x="0" y="0" width="175.60000000000002" height="40" rx="6"/></clipPath>
+<g clip-path="url(#clip_0)">
+<rect x="0" y="0" width="87.80000000000001" height="40" fill="#000000"/>
+<rect x="87.80000000000001" y="0" width="87.80000000000001" height="40" fill="#FFD700"/>
+</g>
+<rect x="0" y="0" width="175.60000000000002" height="40" rx="6" fill="none" stroke="#D4AF37" stroke-width="1"/>
+<text x="43.900000000000006" y="25.0" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1" fill="#FFD700" text-anchor="middle">STATUS</text>
+<text x="131.70000000000002" y="25.0" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1" fill="#000000" text-anchor="middle">ONLINE</text>
+<clipPath id="clip_189.60000000000002"><rect x="189.60000000000002" y="0" width="259.3" height="40" rx="6"/></clipPath>
+<g clip-path="url(#clip_189.60000000000002)">
+<rect x="189.60000000000002" y="0" width="106.4" height="40" fill="#000000"/>
+<rect x="296.0" y="0" width="152.9" height="40" fill="#FFD700"/>
+</g>
+<rect x="189.60000000000002" y="0" width="259.3" height="40" rx="6" fill="none" stroke="#D4AF37" stroke-width="1"/>
+<text x="242.8" y="25.0" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1" fill="#FFD700" text-anchor="middle">LOCATION</text>
+<text x="372.45" y="25.0" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1" fill="#000000" text-anchor="middle">KERALA, INDIA</text>
+<clipPath id="clip_462.90000000000003"><rect x="462.90000000000003" y="0" width="259.3" height="40" rx="6"/></clipPath>
+<g clip-path="url(#clip_462.90000000000003)">
+<rect x="462.90000000000003" y="0" width="115.7" height="40" fill="#000000"/>
+<rect x="578.6" y="0" width="143.60000000000002" height="40" fill="#FFD700"/>
+</g>
+<rect x="462.90000000000003" y="0" width="259.3" height="40" rx="6" fill="none" stroke="#D4AF37" stroke-width="1"/>
+<text x="520.75" y="25.0" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1" fill="#FFD700" text-anchor="middle">CURRENTLY</text>
+<text x="650.4000000000001" y="25.0" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1" fill="#000000" text-anchor="middle">STUDYING ECE</text>
+</svg>
