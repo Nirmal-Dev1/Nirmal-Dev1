@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:D4AF37,100:000000&height=220&section=header&text=Nirmal%20D&fontSize=60&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=2nd%20Year%20Electronics%20%26%20Communication%20Engineering&descAlignY=55&descSize=18&descColor=F0DFA0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:D4AF37,100:000000&height=220&section=header&text=Nirmal%20D&fontSize=60&fontColor=FFD700&animation=fadeIn&fontAlignY=35&desc=2nd%20Year%20ECE%20Student&descAlignY=55&descSize=18&descColor=F0DFA0" width="100%"/>
 
 <a href="https://github.com/Nirmal-Dev1">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=780&height=50&lines=Electronics+%26+Communication+Engineering+Student;Passionate+about+Embedded+Systems+%26+AI;Learning+VLSI+Systems+%26+Machine+Learning;Building+Full-Stack+Web+Applications;Open+Source+Contributor" alt="Typing SVG" />
